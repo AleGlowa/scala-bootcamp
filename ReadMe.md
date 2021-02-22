@@ -3,8 +3,8 @@
 This repository contains information on the [Evolution Gaming](https://eng.evolutiongaming.com/) Scala Bootcamp.
 
 ## BulkyPlugin examples
-![custom-argument](./src/main/resources/customArgument.png, "Custom argument")  
-![default-argument](./src/main/resources/defaultArgument.png, "Default argument")
+![custom-argument](src/main/resources/customArgument.png, "Custom argument")  
+![default-argument](src/main/resources/defaultArgument.png, "Default argument")
 
 ## Schedule
 
